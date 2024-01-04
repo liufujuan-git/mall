@@ -1,0 +1,2 @@
+String orderName;
+Date orderDate;
